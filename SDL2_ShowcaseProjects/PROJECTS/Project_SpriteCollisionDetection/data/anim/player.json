@@ -1,0 +1,125 @@
+{
+	"idle": {
+		"frames": [ 0 ]
+	},
+
+	"walk": {
+		"frames": [ 3, 4, 5, 6, 1, 2 ]
+	},
+
+	"jump_up": {
+		"frames": [ 7 ]
+	},
+
+	"jump_down": {
+		"frames": [ 3, 4, 5, 6, 1, 2 ]
+	},
+
+	"push": {
+		"frames": [ 9, 10, 11, 12 ]
+	},
+
+	"climb": {
+		"frames": [ 26, 27, 28, 29 ]
+	},
+
+	"climb_high": {
+		"frames": [ 30, 31, 28, 29 ]
+	},
+
+	"throw": {
+		"frames": [ 19, 20, 21, 22 ]
+	},
+
+	"helitail": {
+		"frames": [ 13, 14, 15 ]
+	},
+
+	"helitail_full": {
+		"frames": [ 94, 95, 96 ]
+	},
+
+	"helitail_tired": {
+		"frames": [ 16, 17, 18 ]
+	},
+
+	"hurt": {
+		"frames": [ 32 ]
+	},
+
+	"death": {
+		"frames": [ 33, 34, 35 ]
+	},
+
+	"look_up": {
+		"frames": [ 23 ]
+	},
+
+	"crouch": {
+		"frames": [ 24 ]
+	},
+
+	"throw_crouch": {
+		"frames": [ 39, 40 ]
+	},
+
+	"fall": {
+		"frames": [ 60, 61, 62, 63, 64, 65 ]
+	},
+
+	"throw_helitail": {
+		"frames": [ 66, 67, 68 ]
+	},
+
+	"throw_air": {
+		"frames": [ 69, 70, 71, 72 ]
+	},
+
+	"unpack": {
+		"frames": [ 73 ]
+	},
+
+	"raise": {
+		"frames": [ 78, 74, 75, 76, 77 ]
+	},
+
+	"release": {
+		"frames": [ 77, 76, 75, 74 ]
+	},
+
+	"teleport": {
+		"frames": [ 79, 80, 81, 82, 83, 84, 85 ]
+	},
+
+	"shield": {
+		"frames": [ 86, 87, 88, 89, 90, 91, 92, 93 ]
+	},
+
+	"hammer": {
+		"frames": [ 97, 98, 99, 100 ]
+	},
+
+	"remote_robot_idle": {
+		"frames": [ 41 ]
+	},
+
+	"remote_robot_walk": {
+		"frames": [ 42, 43, 44, 45 ]
+	},
+
+	"remote_robot_fly_init": {
+		"frames": [ 46, 47, 48, 49, 50, 51, 52, 53, 54 ]
+	},
+
+	"remote_robot_fly_loop": {
+		"frames": [ 55, 56 ]
+	},
+
+	"control_remote_robot": {
+		"frames": [ 57, 58, 59, 58 ]
+	},
+
+	"remote_robot_raise": {
+		"frames": [ 41 ]
+	}
+}
